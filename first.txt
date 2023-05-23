@@ -5,3 +5,4 @@ Gitの練習です
 ・git rm
 ・git status
 ・git diff
+テスト追加
